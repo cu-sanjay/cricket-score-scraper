@@ -4,11 +4,11 @@
         "SOUTH AFRICA"
     ],
     "scores": [
-        "161/7 (36.0)",
+        "208 (43.3)",
         "315/6 (50.0)"
     ],
-    "run_rate": "RR 4.47",
-    "match_status": "Second Innings : Afghanistan need 155 runs in 84 balls at 11.07 rpo",
+    "run_rate": "N/A",
+    "match_status": "South Africa beat Afghanistan by 107 runs",
     "standings": [
         {
             "pos": "1",
@@ -39,5 +39,5 @@
             "points": "0"
         }
     ],
-    "last_updated": "2025-02-21 21:22:24 IST"
+    "last_updated": "2025-02-21 21:56:16 IST"
 }
