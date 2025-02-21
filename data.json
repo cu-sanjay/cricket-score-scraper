@@ -4,10 +4,11 @@
         "SOUTH AFRICA"
     ],
     "scores": [
+        "16/1 (3.2)",
         "315/6 (50.0)"
     ],
-    "run_rate": "RR 6.30",
-    "match_status": "Innings Break : Afghanistan need 316 runs in 300 balls at 6.32 rpo",
+    "run_rate": "RR 4.80",
+    "match_status": "Second Innings : Afghanistan need 300 runs in 280 balls at 6.42 rpo",
     "standings": [
         {
             "pos": "1",
@@ -38,5 +39,5 @@
             "points": "0"
         }
     ],
-    "last_updated": "2025-02-21 18:35:42 IST"
+    "last_updated": "2025-02-21 18:59:17 IST"
 }
