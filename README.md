@@ -2,6 +2,12 @@
 
 > **Automatically fetches live cricket scores** and updates [`data.json`](data.json) every **10 minutes** using GitHub Actions.
 
+---
+
+# 🏏 Live Cricket Score Scraper (GitHub Actions)
+
+> **Automatically fetches live cricket scores** and updates [`data.json`](data.json) every **10 minutes** using GitHub Actions.
+
 ## 📌 Features
 
 ✅ **Live Cricket Scores Updated Every 10 Minutes**  
