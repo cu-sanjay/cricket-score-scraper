@@ -4,11 +4,11 @@
         "ENGLAND"
     ],
     "scores": [
-        "17/0 (1.5)",
+        "26/1 (3.5)",
         "351/8 (50.0)"
     ],
-    "run_rate": "RR 9.27",
-    "match_status": "Second Innings : Australia need 335 runs in 289 balls at 6.95 rpo",
+    "run_rate": "RR 6.78",
+    "match_status": "Second Innings : Australia need 326 runs in 277 balls at 7.06 rpo",
     "standings": [
         {
             "pos": "1",
@@ -39,5 +39,5 @@
             "points": "0"
         }
     ],
-    "last_updated": "2025-02-22 18:57:39 IST"
+    "last_updated": "2025-02-22 19:09:36 IST"
 }
