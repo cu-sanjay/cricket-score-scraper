@@ -4,11 +4,11 @@
         "ENGLAND"
     ],
     "scores": [
-        "341/5 (46.4)",
+        "356/5 (47.3)",
         "351/8 (50.0)"
     ],
-    "run_rate": "RR 7.31",
-    "match_status": "Second Innings : Australia need 11 runs in 20 balls at 3.3 rpo",
+    "run_rate": "N/A",
+    "match_status": "Australia beat England by 5 wickets",
     "standings": [
         {
             "pos": "1",
@@ -39,5 +39,5 @@
             "points": "0"
         }
     ],
-    "last_updated": "2025-02-22 22:29:30 IST"
+    "last_updated": "2025-02-22 22:53:22 IST"
 }
