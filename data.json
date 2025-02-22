@@ -4,10 +4,10 @@
         "ENGLAND"
     ],
     "scores": [
-        "328/7 (48.3)"
+        "351/8 (50.0)"
     ],
-    "run_rate": "RR 6.76",
-    "match_status": "First Innings : Australia elected to field",
+    "run_rate": "RR 7.02",
+    "match_status": "Innings Break : Australia need 352 runs in 300 balls at 7.04 rpo",
     "standings": [
         {
             "pos": "1",
@@ -38,5 +38,5 @@
             "points": "0"
         }
     ],
-    "last_updated": "2025-02-22 18:11:00 IST"
+    "last_updated": "2025-02-22 18:38:40 IST"
 }
