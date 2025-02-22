@@ -1,43 +1,8 @@
 {
-    "teams": [
-        "AUSTRALIA",
-        "ENGLAND"
-    ],
-    "scores": [
-        "356/5 (47.3)",
-        "351/8 (50.0)"
-    ],
+    "teams": [],
+    "scores": [],
     "run_rate": "N/A",
-    "match_status": "Australia beat England by 5 wickets",
-    "standings": [
-        {
-            "pos": "1",
-            "team": "NZ",
-            "played": "1",
-            "nrr": "+1.200",
-            "points": "2"
-        },
-        {
-            "pos": "2",
-            "team": "IND",
-            "played": "1",
-            "nrr": "+0.408",
-            "points": "2"
-        },
-        {
-            "pos": "3",
-            "team": "BAN",
-            "played": "1",
-            "nrr": "-0.408",
-            "points": "0"
-        },
-        {
-            "pos": "4",
-            "team": "PAK",
-            "played": "1",
-            "nrr": "-1.200",
-            "points": "0"
-        }
-    ],
-    "last_updated": "2025-02-22 23:55:55 IST"
+    "match_status": "N/A",
+    "standings": [],
+    "last_updated": "2025-02-23 00:12:02 IST"
 }
