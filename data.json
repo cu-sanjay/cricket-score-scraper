@@ -1,8 +1,42 @@
 {
-    "teams": [],
-    "scores": [],
-    "run_rate": "N/A",
-    "match_status": "N/A",
-    "standings": [],
-    "last_updated": "2025-02-22 14:12:46 IST"
+    "teams": [
+        "AUSTRALIA",
+        "ENGLAND"
+    ],
+    "scores": [
+        "0/0(0.0)"
+    ],
+    "run_rate": "RR",
+    "match_status": "Australia elected to field",
+    "standings": [
+        {
+            "pos": "1",
+            "team": "NZ",
+            "played": "1",
+            "nrr": "+1.200",
+            "points": "2"
+        },
+        {
+            "pos": "2",
+            "team": "IND",
+            "played": "1",
+            "nrr": "+0.408",
+            "points": "2"
+        },
+        {
+            "pos": "3",
+            "team": "BAN",
+            "played": "1",
+            "nrr": "-0.408",
+            "points": "0"
+        },
+        {
+            "pos": "4",
+            "team": "PAK",
+            "played": "1",
+            "nrr": "-1.200",
+            "points": "0"
+        }
+    ],
+    "last_updated": "2025-02-22 14:27:53 IST"
 }
