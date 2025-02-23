@@ -4,10 +4,11 @@
         "INDIA"
     ],
     "scores": [
-        "241 (49.4)"
+        "241 (49.4)",
+        "2/0 (1.2)"
     ],
-    "run_rate": "RR 4.85",
-    "match_status": "Innings Break : India need 242 runs in 300 balls at 4.84 rpo",
+    "run_rate": "RR 1.50",
+    "match_status": "Second Innings : India need 240 runs in 292 balls at 4.93 rpo",
     "standings": [
         {
             "pos": "1",
@@ -38,5 +39,5 @@
             "points": "0"
         }
     ],
-    "last_updated": "2025-02-23 18:39:53 IST"
+    "last_updated": "2025-02-23 18:58:20 IST"
 }
