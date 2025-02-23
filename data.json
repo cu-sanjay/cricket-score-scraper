@@ -4,10 +4,10 @@
         "INDIA"
     ],
     "scores": [
-        "234/8 (48.3)"
+        "241 (49.4)"
     ],
-    "run_rate": "RR 4.82",
-    "match_status": "First Innings : Pakistan elected to bat",
+    "run_rate": "RR 4.85",
+    "match_status": "Innings Break : India need 242 runs in 300 balls at 4.84 rpo",
     "standings": [
         {
             "pos": "1",
@@ -38,5 +38,5 @@
             "points": "0"
         }
     ],
-    "last_updated": "2025-02-23 18:14:19 IST"
+    "last_updated": "2025-02-23 18:39:53 IST"
 }
