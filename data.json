@@ -1,8 +1,42 @@
 {
-    "teams": [],
-    "scores": [],
-    "run_rate": "N/A",
-    "match_status": "N/A",
-    "standings": [],
-    "last_updated": "2025-02-23 14:29:56 IST"
+    "teams": [
+        "PAKISTAN",
+        "INDIA"
+    ],
+    "scores": [
+        "24/0 (4.4)"
+    ],
+    "run_rate": "RR 5.14",
+    "match_status": "First Innings : Pakistan elected to bat",
+    "standings": [
+        {
+            "pos": "1",
+            "team": "NZ",
+            "played": "1",
+            "nrr": "+1.200",
+            "points": "2"
+        },
+        {
+            "pos": "2",
+            "team": "IND",
+            "played": "1",
+            "nrr": "+0.408",
+            "points": "2"
+        },
+        {
+            "pos": "3",
+            "team": "BAN",
+            "played": "1",
+            "nrr": "-0.408",
+            "points": "0"
+        },
+        {
+            "pos": "4",
+            "team": "PAK",
+            "played": "1",
+            "nrr": "-1.200",
+            "points": "0"
+        }
+    ],
+    "last_updated": "2025-02-23 14:55:21 IST"
 }
