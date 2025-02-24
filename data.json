@@ -1,8 +1,42 @@
 {
-    "teams": [],
-    "scores": [],
-    "run_rate": "N/A",
-    "match_status": "N/A",
-    "standings": [],
-    "last_updated": "2025-02-24 14:42:43 IST"
+    "teams": [
+        "BANGLADESH",
+        "NEW ZEALAND"
+    ],
+    "scores": [
+        "33/0 (7.0)"
+    ],
+    "run_rate": "RR 4.71",
+    "match_status": "First Innings : New Zealand elected to field",
+    "standings": [
+        {
+            "pos": "1",
+            "team": "IND",
+            "played": "2",
+            "nrr": "+0.647",
+            "points": "4"
+        },
+        {
+            "pos": "2",
+            "team": "NZ",
+            "played": "1",
+            "nrr": "+1.200",
+            "points": "2"
+        },
+        {
+            "pos": "3",
+            "team": "BAN",
+            "played": "1",
+            "nrr": "-0.408",
+            "points": "0"
+        },
+        {
+            "pos": "4",
+            "team": "PAK",
+            "played": "2",
+            "nrr": "-1.087",
+            "points": "0"
+        }
+    ],
+    "last_updated": "2025-02-24 15:03:25 IST"
 }
