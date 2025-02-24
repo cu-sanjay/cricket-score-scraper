@@ -1,43 +1,8 @@
 {
-    "teams": [
-        "BANGLADESH",
-        "NEW ZEALAND"
-    ],
-    "scores": [
-        "236/9 (50.0)",
-        "240/5 (46.1)"
-    ],
+    "teams": [],
+    "scores": [],
     "run_rate": "N/A",
-    "match_status": "New Zealand beat Bangladesh by 5 wickets",
-    "standings": [
-        {
-            "pos": "Q 1",
-            "team": "NZ",
-            "played": "2",
-            "nrr": "+0.863",
-            "points": "4"
-        },
-        {
-            "pos": "Q 2",
-            "team": "IND",
-            "played": "2",
-            "nrr": "+0.647",
-            "points": "4"
-        },
-        {
-            "pos": "3",
-            "team": "BAN",
-            "played": "2",
-            "nrr": "-0.443",
-            "points": "0"
-        },
-        {
-            "pos": "4",
-            "team": "PAK",
-            "played": "2",
-            "nrr": "-1.087",
-            "points": "0"
-        }
-    ],
-    "last_updated": "2025-02-24 23:02:19 IST"
+    "match_status": "N/A",
+    "standings": [],
+    "last_updated": "2025-02-24 23:17:40 IST"
 }
