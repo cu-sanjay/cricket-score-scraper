@@ -1,8 +1,14 @@
 {
-    "teams": [],
-    "scores": [],
-    "run_rate": "N/A",
-    "match_status": "",
+    "teams": [
+        "BANGLADESH",
+        "NEW ZEALAND"
+    ],
+    "scores": [
+        "236/9 (50.0)",
+        "165/3 (32.3)"
+    ],
+    "run_rate": "RR 5.08",
+    "match_status": "Second Innings : New Zealand need 72 runs in 105 balls at 4.11 rpo",
     "standings": [
         {
             "pos": "1",
@@ -33,5 +39,5 @@
             "points": "0"
         }
     ],
-    "last_updated": "2025-02-24 20:27:21 IST"
+    "last_updated": "2025-02-24 20:56:50 IST"
 }
