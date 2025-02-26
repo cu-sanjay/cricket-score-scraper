@@ -5,10 +5,10 @@
     ],
     "scores": [
         "325/7 (50.0)",
-        "291/7 (46.0)"
+        "317 (49.5)"
     ],
-    "run_rate": "RR 6.33",
-    "match_status": "Second Innings : England need 35 runs in 24 balls at 8.75 rpo",
+    "run_rate": "N/A",
+    "match_status": "Afghanistan beat England by 8 runs",
     "standings": [
         {
             "pos": "Q 1",
@@ -39,5 +39,5 @@
             "points": "0"
         }
     ],
-    "last_updated": "2025-02-26 22:21:53 IST"
+    "last_updated": "2025-02-26 22:48:40 IST"
 }
