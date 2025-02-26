@@ -4,10 +4,10 @@
         "ENGLAND"
     ],
     "scores": [
-        "0/0(0.0)"
+        "15/1 (4.3)"
     ],
-    "run_rate": "RR",
-    "match_status": "Afghanistan elected to bat",
+    "run_rate": "RR 3.33",
+    "match_status": "First Innings : Afghanistan elected to bat",
     "standings": [
         {
             "pos": "Q 1",
@@ -38,5 +38,5 @@
             "points": "0"
         }
     ],
-    "last_updated": "2025-02-26 14:20:29 IST"
+    "last_updated": "2025-02-26 14:53:10 IST"
 }
