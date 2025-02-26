@@ -4,10 +4,10 @@
         "ENGLAND"
     ],
     "scores": [
-        "324/7 (49.4)"
+        "325/7 (50.0)"
     ],
-    "run_rate": "RR 6.52",
-    "match_status": "First Innings : Afghanistan elected to bat",
+    "run_rate": "RR 6.50",
+    "match_status": "Innings Break : England need 326 runs in 300 balls at 6.52 rpo",
     "standings": [
         {
             "pos": "Q 1",
@@ -38,5 +38,5 @@
             "points": "0"
         }
     ],
-    "last_updated": "2025-02-26 18:19:12 IST"
+    "last_updated": "2025-02-26 18:47:15 IST"
 }
