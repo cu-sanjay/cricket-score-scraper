@@ -4,10 +4,10 @@
         "AUSTRALIA"
     ],
     "scores": [
-        "0/0(0.0)"
+        "24/1 (5.3)"
     ],
-    "run_rate": "RR",
-    "match_status": "Afghanistan elected to bat",
+    "run_rate": "RR 4.36",
+    "match_status": "First Innings : Afghanistan elected to bat",
     "standings": [
         {
             "pos": "Q 1",
@@ -38,5 +38,5 @@
             "points": "1"
         }
     ],
-    "last_updated": "2025-02-28 14:28:47 IST"
+    "last_updated": "2025-02-28 14:56:17 IST"
 }
