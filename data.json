@@ -1,8 +1,42 @@
 {
-    "teams": [],
-    "scores": [],
-    "run_rate": "N/A",
-    "match_status": "N/A",
-    "standings": [],
-    "last_updated": "2025-02-28 14:16:45 IST"
+    "teams": [
+        "AFGHANISTAN",
+        "AUSTRALIA"
+    ],
+    "scores": [
+        "0/0(0.0)"
+    ],
+    "run_rate": "RR",
+    "match_status": "Afghanistan elected to bat",
+    "standings": [
+        {
+            "pos": "Q 1",
+            "team": "NZ",
+            "played": "2",
+            "nrr": "+0.863",
+            "points": "4"
+        },
+        {
+            "pos": "Q 2",
+            "team": "IND",
+            "played": "2",
+            "nrr": "+0.647",
+            "points": "4"
+        },
+        {
+            "pos": "3",
+            "team": "BAN",
+            "played": "3",
+            "nrr": "-0.443",
+            "points": "1"
+        },
+        {
+            "pos": "4",
+            "team": "PAK",
+            "played": "3",
+            "nrr": "-1.087",
+            "points": "1"
+        }
+    ],
+    "last_updated": "2025-02-28 14:28:47 IST"
 }
