@@ -4,10 +4,10 @@
         "AUSTRALIA"
     ],
     "scores": [
-        "223/7 (43.4)"
+        "273 (50.0)"
     ],
-    "run_rate": "RR 5.11",
-    "match_status": "First Innings : Afghanistan elected to bat",
+    "run_rate": "RR 5.46",
+    "match_status": "Innings Break : Australia need 274 runs in 300 balls at 5.48 rpo",
     "standings": [
         {
             "pos": "Q 1",
@@ -38,5 +38,5 @@
             "points": "1"
         }
     ],
-    "last_updated": "2025-02-28 17:29:44 IST"
+    "last_updated": "2025-02-28 18:18:40 IST"
 }
