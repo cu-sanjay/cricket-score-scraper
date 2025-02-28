@@ -1,43 +1,8 @@
 {
-    "teams": [
-        "AFGHANISTAN",
-        "AUSTRALIA"
-    ],
-    "scores": [
-        "273 (50.0)",
-        "109/1 (12.5)"
-    ],
+    "teams": [],
+    "scores": [],
     "run_rate": "N/A",
-    "match_status": "Match Abandoned",
-    "standings": [
-        {
-            "pos": "Q 1",
-            "team": "NZ",
-            "played": "2",
-            "nrr": "+0.863",
-            "points": "4"
-        },
-        {
-            "pos": "Q 2",
-            "team": "IND",
-            "played": "2",
-            "nrr": "+0.647",
-            "points": "4"
-        },
-        {
-            "pos": "3",
-            "team": "BAN",
-            "played": "3",
-            "nrr": "-0.443",
-            "points": "1"
-        },
-        {
-            "pos": "4",
-            "team": "PAK",
-            "played": "3",
-            "nrr": "-1.087",
-            "points": "1"
-        }
-    ],
-    "last_updated": "2025-02-28 21:27:35 IST"
+    "match_status": "N/A",
+    "standings": [],
+    "last_updated": "2025-02-28 22:00:42 IST"
 }
