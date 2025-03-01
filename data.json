@@ -1,8 +1,42 @@
 {
-    "teams": [],
-    "scores": [],
-    "run_rate": "N/A",
-    "match_status": "N/A",
-    "standings": [],
-    "last_updated": "2025-03-01 13:41:47 IST"
+    "teams": [
+        "SOUTH AFRICA",
+        "ENGLAND"
+    ],
+    "scores": [
+        "0/0(0.0)"
+    ],
+    "run_rate": "RR",
+    "match_status": "England elected to bat",
+    "standings": [
+        {
+            "pos": "Q 1",
+            "team": "NZ",
+            "played": "2",
+            "nrr": "+0.863",
+            "points": "4"
+        },
+        {
+            "pos": "Q 2",
+            "team": "IND",
+            "played": "2",
+            "nrr": "+0.647",
+            "points": "4"
+        },
+        {
+            "pos": "3",
+            "team": "BAN",
+            "played": "3",
+            "nrr": "-0.443",
+            "points": "1"
+        },
+        {
+            "pos": "4",
+            "team": "PAK",
+            "played": "3",
+            "nrr": "-1.087",
+            "points": "1"
+        }
+    ],
+    "last_updated": "2025-03-01 14:05:43 IST"
 }
