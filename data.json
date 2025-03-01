@@ -4,10 +4,11 @@
         "ENGLAND"
     ],
     "scores": [
-        "175/9 (36.4)"
+        "11/0 (1.4)",
+        "179 (38.2)"
     ],
-    "run_rate": "RR 4.77",
-    "match_status": "First Innings : England elected to bat",
+    "run_rate": "RR 6.60",
+    "match_status": "Second Innings : South Africa need 169 runs in 290 balls at 3.49 rpo",
     "standings": [
         {
             "pos": "Q 1",
@@ -38,5 +39,5 @@
             "points": "1"
         }
     ],
-    "last_updated": "2025-03-01 17:21:06 IST"
+    "last_updated": "2025-03-01 18:08:07 IST"
 }
