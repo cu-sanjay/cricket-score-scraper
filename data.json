@@ -4,11 +4,11 @@
         "ENGLAND"
     ],
     "scores": [
-        "89/2 (16.0)",
+        "123/2 (22.1)",
         "179 (38.2)"
     ],
-    "run_rate": "RR 5.56",
-    "match_status": "Second Innings : South Africa need 91 runs in 204 balls at 2.67 rpo",
+    "run_rate": "RR 5.55",
+    "match_status": "Second Innings : South Africa need 57 runs in 167 balls at 2.04 rpo",
     "standings": [
         {
             "pos": "Q 1",
@@ -39,5 +39,5 @@
             "points": "1"
         }
     ],
-    "last_updated": "2025-03-01 19:21:52 IST"
+    "last_updated": "2025-03-01 19:49:02 IST"
 }
