@@ -1,43 +1,8 @@
 {
-    "teams": [
-        "NEW ZEALAND",
-        "INDIA"
-    ],
-    "scores": [
-        "169/7 (41.1)",
-        "249/9 (50.0)"
-    ],
-    "run_rate": "RR 4.11",
-    "match_status": "Second Innings : New Zealand need 81 runs in 53 balls at 9.16 rpo",
-    "standings": [
-        {
-            "pos": "Q 1",
-            "team": "NZ",
-            "played": "2",
-            "nrr": "+0.863",
-            "points": "4"
-        },
-        {
-            "pos": "Q 2",
-            "team": "IND",
-            "played": "2",
-            "nrr": "+0.647",
-            "points": "4"
-        },
-        {
-            "pos": "3",
-            "team": "BAN",
-            "played": "3",
-            "nrr": "-0.443",
-            "points": "1"
-        },
-        {
-            "pos": "4",
-            "team": "PAK",
-            "played": "3",
-            "nrr": "-1.087",
-            "points": "1"
-        }
-    ],
-    "last_updated": "2025-03-02 21:20:57 IST"
+    "teams": [],
+    "scores": [],
+    "run_rate": "N/A",
+    "match_status": "N/A",
+    "standings": [],
+    "last_updated": "2025-03-02 21:54:20 IST"
 }
