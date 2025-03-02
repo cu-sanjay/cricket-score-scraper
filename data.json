@@ -4,10 +4,11 @@
         "INDIA"
     ],
     "scores": [
+        "9/0 (1.5)",
         "249/9 (50.0)"
     ],
-    "run_rate": "RR 4.98",
-    "match_status": "Innings Break : New Zealand need 250 runs in 300 balls at 5 rpo",
+    "run_rate": "RR 4.91",
+    "match_status": "Second Innings : New Zealand need 241 runs in 289 balls at 5.00 rpo",
     "standings": [
         {
             "pos": "Q 1",
@@ -38,5 +39,5 @@
             "points": "1"
         }
     ],
-    "last_updated": "2025-03-02 18:13:42 IST"
+    "last_updated": "2025-03-02 18:39:49 IST"
 }
