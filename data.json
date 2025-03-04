@@ -1,8 +1,40 @@
 {
-    "teams": [],
+    "teams": [
+        "INDIA",
+        "AUSTRALIA"
+    ],
     "scores": [],
     "run_rate": "N/A",
-    "match_status": "N/A",
-    "standings": [],
-    "last_updated": "2025-03-04 13:21:40 IST"
+    "match_status": "09:00",
+    "standings": [
+        {
+            "pos": "Q 1",
+            "team": "IND",
+            "played": "3",
+            "nrr": "+0.715",
+            "points": "6"
+        },
+        {
+            "pos": "Q 2",
+            "team": "NZ",
+            "played": "3",
+            "nrr": "+0.267",
+            "points": "4"
+        },
+        {
+            "pos": "3",
+            "team": "BAN",
+            "played": "3",
+            "nrr": "-0.443",
+            "points": "1"
+        },
+        {
+            "pos": "4",
+            "team": "PAK",
+            "played": "3",
+            "nrr": "-1.087",
+            "points": "1"
+        }
+    ],
+    "last_updated": "2025-03-04 13:56:11 IST"
 }
