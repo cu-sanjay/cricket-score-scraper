@@ -1,14 +1,8 @@
 {
-    "teams": [
-        "INDIA",
-        "AUSTRALIA"
-    ],
-    "scores": [
-        "254/5 (47.2)",
-        "264 (49.3)"
-    ],
-    "run_rate": "RR 5.37",
-    "match_status": "Second Innings : India need 11 runs in 16 balls at 4.12 rpo",
+    "teams": [],
+    "scores": [],
+    "run_rate": "N/A",
+    "match_status": "N/A",
     "standings": [],
-    "last_updated": "2025-03-04 21:27:37 IST"
+    "last_updated": "2025-03-04 22:01:41 IST"
 }
