@@ -4,39 +4,10 @@
         "AUSTRALIA"
     ],
     "scores": [
-        "67/2 (11.1)"
+        "105/2 (20.0)"
     ],
-    "run_rate": "RR 6.00",
+    "run_rate": "RR 5.25",
     "match_status": "First Innings : Australia elected to bat",
-    "standings": [
-        {
-            "pos": "Q 1",
-            "team": "IND",
-            "played": "3",
-            "nrr": "+0.715",
-            "points": "6"
-        },
-        {
-            "pos": "Q 2",
-            "team": "NZ",
-            "played": "3",
-            "nrr": "+0.267",
-            "points": "4"
-        },
-        {
-            "pos": "3",
-            "team": "BAN",
-            "played": "3",
-            "nrr": "-0.443",
-            "points": "1"
-        },
-        {
-            "pos": "4",
-            "team": "PAK",
-            "played": "3",
-            "nrr": "-1.087",
-            "points": "1"
-        }
-    ],
-    "last_updated": "2025-03-04 15:27:12 IST"
+    "standings": [],
+    "last_updated": "2025-03-04 15:57:07 IST"
 }
