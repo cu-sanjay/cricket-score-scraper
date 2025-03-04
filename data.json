@@ -3,9 +3,11 @@
         "INDIA",
         "AUSTRALIA"
     ],
-    "scores": [],
-    "run_rate": "N/A",
-    "match_status": "09:00",
+    "scores": [
+        "0/0(0.0)"
+    ],
+    "run_rate": "RR",
+    "match_status": "Australia elected to bat",
     "standings": [
         {
             "pos": "Q 1",
@@ -36,5 +38,5 @@
             "points": "1"
         }
     ],
-    "last_updated": "2025-03-04 13:56:11 IST"
+    "last_updated": "2025-03-04 14:15:43 IST"
 }
