@@ -1,8 +1,13 @@
 {
-    "teams": [],
-    "scores": [],
-    "run_rate": "N/A",
-    "match_status": "N/A",
+    "teams": [
+        "SOUTH AFRICA",
+        "NEW ZEALAND"
+    ],
+    "scores": [
+        "0/0(0.0)"
+    ],
+    "run_rate": "RR",
+    "match_status": "New Zealand elected to bat",
     "standings": [],
-    "last_updated": "2025-03-05 14:03:20 IST"
+    "last_updated": "2025-03-05 14:21:10 IST"
 }
