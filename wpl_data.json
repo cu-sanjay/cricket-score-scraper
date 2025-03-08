@@ -4,7 +4,7 @@
         "match_subtitle": "Women's Premier League, 2025",
         "match_date": "Mar 08, 2025",
         "match_time": "14:00",
-        "match_status": "Live",
+        "match_status": "Strategic Time-Out",
         "team_a": "UP Warriorz",
         "team_b": "Royal Challengers Bengaluru",
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
@@ -33,5 +33,5 @@
             "result": "Delhi Capitals beat Royal Challengers Bengaluru by 9 wickets"
         }
     ],
-    "last_updated": "2025-03-08 19:42:42 IST"
+    "last_updated": "2025-03-08 20:44:52 IST"
 }
