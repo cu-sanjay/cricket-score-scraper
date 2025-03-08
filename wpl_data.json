@@ -1,0 +1,48 @@
+{
+    "upcoming_match": {
+        "match_title": "Match 18, UP Warriorz vs Royal Challengers Bengaluru",
+        "match_subtitle": "Women's Premier League, 2025",
+        "match_date": "Mar 08, 2025",
+        "match_time": "14:00",
+        "match_status": "Upcoming",
+        "team_a": "UP Warriorz",
+        "team_b": "Royal Challengers Bengaluru",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+    },
+    "previous_matches": [
+        {
+            "match_number": "15",
+            "status": "Match Ended",
+            "date": "Mar 03, 2025",
+            "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+            "team_a": "UPW",
+            "team_a_score": "105",
+            "team_b": "GG",
+            "team_b_score": "186/5",
+            "result": "Gujarat Giants beat UP Warriorz by 81 runs"
+        },
+        {
+            "match_number": "14",
+            "status": "Match Ended",
+            "date": "Mar 01, 2025",
+            "venue": "M.Chinnaswamy Stadium, Bengaluru",
+            "team_a": "RCB",
+            "team_a_score": "147/5",
+            "team_b": "DC",
+            "team_b_score": "151/1",
+            "result": "Delhi Capitals beat Royal Challengers Bengaluru by 9 wickets"
+        },
+        {
+            "match_number": "13",
+            "status": "Match Ended",
+            "date": "Feb 28, 2025",
+            "venue": "M.Chinnaswamy Stadium, Bengaluru",
+            "team_a": "DC",
+            "team_a_score": "124/1",
+            "team_b": "MI",
+            "team_b_score": "123/9",
+            "result": "Delhi Capitals beat Mumbai Indians by 9 wickets"
+        }
+    ],
+    "last_updated": "2025-03-08 11:34:57 IST"
+}
