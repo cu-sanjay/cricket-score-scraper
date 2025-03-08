@@ -2,8 +2,7 @@ name: Live Cricket Score Scraper
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
-
+    - cron: "*/60 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -29,6 +28,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json README.md
-          git commit -m "Updated live match data and README [$(date)]" || echo "No changes to commit"
+          git add wpl_data.json
+          git commit -m "Updated live match data [$(date)]" || echo "No changes to commit"
           git push
