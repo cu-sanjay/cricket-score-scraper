@@ -1,35 +1,51 @@
-# 🏏 Live Cricket Score Scraper (GitHub Actions)
+# **Live Cricket Score Scraper**  
 
-> **Automatically fetches live cricket scores** and updates [`data.json`](data.json) every **10 minutes** using GitHub Actions.
+A **Python-based web scraper** that fetches **live and past match data** from the **[Women's Premier League (WPL)](https://www.wplt20.com/) website** using **Selenium, BeautifulSoup, and GitHub Actions**. The script runs automatically every **Hour** and updates a JSON file with match details.  
+> [!IMPORTANT]
+> This project is for **educational purposes only**. It does not store, redistribute, or claim ownership over any third-party data. Users are responsible for complying with website terms of service.  
 
----
+## **Features**  
 
-# 🏏 Live Cricket Score Scraper (GitHub Actions)
+1. **Automated Web Scraping** – Uses **Selenium + BeautifulSoup** to extract match details dynamically.  
+2. **GitHub Actions Integration** – Runs automatically on schedule without manual execution.  
+3. **Web Development Ready** – Data is stored in **wpl_data.json**, which can be used in web applications.  
+4. **Bypass Restrictions** – Implements **headless browsing, user-agent rotation**, and **dynamic content handling**.  
 
-> **Automatically fetches live cricket scores** and updates [`data.json`](data.json) every **10 minutes** using GitHub Actions.
+## **Usage**  
 
-## 📌 Features
+### **Run Locally**  
 
-✅ **Live Cricket Scores Updated Every 10 Minutes**  
-✅ **Indian Standard Time (IST) Supported**  
-✅ **Automatically Saves Data to `data.json`**  
-✅ **Runs 24/7 Using GitHub Actions**  
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/cu-sanjay/cricket-score-scraper
+   cd cricket-score-scraper
+   ```
 
-## 🏆 Latest Match Score
+2. **Install dependencies**  
+   ```sh
+   pip install -r requirements.txt
+   ```
 
-### 🏏 **India vs Australia**
-- **India:** 🏏 *250/3 (45 Overs)*
-- **Australia:** 🏏 *230/8 (45 Overs)*
-- **Current Run Rate:** 6.2  
-- **Match Status:** 🏆 *India needs 20 runs in 15 balls*  
+3. **Run the script**  
+   ```sh
+   python test.py
+   ```
 
-⏳ **Last Updated:** `2025-02-21 18:30:00 IST`  
+### **Automated Execution via GitHub Actions**  
 
-## 📊 Tournament Standings
+- The script is scheduled to run every **1 hour** using **GitHub Actions**.  
+- It fetches live match data and commits changes automatically.  
+- No manual intervention is needed once set up.  
 
-| 🏅 Position | 🏏 Team       | 🔢 Matches Played | 📈 Net Run Rate | 🏆 Points |
-|------------|-------------|----------------|----------------|---------|
-| 🥇 **1st** | 🇮🇳 **India**  | 5 | +1.234 | **10** |
-| 🥈 **2nd** | 🇦🇺 **Australia** | 5 | +0.678 | **8** |
-| 🥉 **3rd** | 🏴 **England**  | 5 | +0.512 | **6** |
-| 4️⃣ | 🇵🇰 **Pakistan**  | 5 | +0.205 | **4** |
+## **Enhancements & Workarounds**  
+
+1. **Handling Strict Websites**
+2. Rotate **user-agents** to prevent detection.
+3. Use **headless browsing** for minimal footprint.
+4. Simulate **human interactions** (scrolling, waiting, retries).
+5. Extract data from **network requests** instead of the rendered page.  
+> [!TIP]
+> **Web Development Integration**
+> - Serve **wpl_data.json** via **Flask/Django API**.
+> - Fetch and display match data in **React/Next.js frontend**.
+> - Automate updates via **Telegram/Reddit/Discord bot**.  
