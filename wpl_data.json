@@ -4,7 +4,7 @@
         "match_subtitle": "Women's Premier League, 2025",
         "match_date": "Mar 08, 2025",
         "match_time": "14:00",
-        "match_status": "Upcoming",
+        "match_status": "Live",
         "team_a": "UP Warriorz",
         "team_b": "Royal Challengers Bengaluru",
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
@@ -31,18 +31,7 @@
             "team_b": "DC",
             "team_b_score": "151/1",
             "result": "Delhi Capitals beat Royal Challengers Bengaluru by 9 wickets"
-        },
-        {
-            "match_number": "13",
-            "status": "Match Ended",
-            "date": "Feb 28, 2025",
-            "venue": "M.Chinnaswamy Stadium, Bengaluru",
-            "team_a": "DC",
-            "team_a_score": "124/1",
-            "team_b": "MI",
-            "team_b_score": "123/9",
-            "result": "Delhi Capitals beat Mumbai Indians by 9 wickets"
         }
     ],
-    "last_updated": "2025-03-08 18:47:14 IST"
+    "last_updated": "2025-03-08 19:42:42 IST"
 }
