@@ -1,5 +1,50 @@
 {
     "upcoming_match": {},
-    "previous_matches": [],
-    "last_updated": "2025-03-12 15:50:34 IST"
+    "previous_matches": [
+        {
+            "match_number": "18",
+            "status": "Match Ended",
+            "date": "Mar 08, 2025",
+            "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+            "team_a": "UPW",
+            "team_a_score": "225/5",
+            "team_b": "RCB",
+            "team_b_score": "213",
+            "result": "UP Warriorz beat Royal Challengers Bengaluru by 12 runs"
+        },
+        {
+            "match_number": "17",
+            "status": "Match Ended",
+            "date": "Mar 07, 2025",
+            "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+            "team_a": "GG",
+            "team_a_score": "178/5",
+            "team_b": "DC",
+            "team_b_score": "177/5",
+            "result": "Gujarat Giants beat Delhi Capitals by 5 wickets"
+        },
+        {
+            "match_number": "16",
+            "status": "Match Ended",
+            "date": "Mar 06, 2025",
+            "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+            "team_a": "UPW",
+            "team_a_score": "150/9",
+            "team_b": "MI",
+            "team_b_score": "153/4",
+            "result": "Mumbai Indians beat UP Warriorz by 6 wickets"
+        },
+        {
+            "match_number": "15",
+            "status": "Match Ended",
+            "date": "Mar 03, 2025",
+            "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+            "team_a": "UPW",
+            "team_a_score": "105",
+            "team_b": "GG",
+            "team_b_score": "186/5",
+            "result": "Gujarat Giants beat UP Warriorz by 81 runs"
+        }
+    ],
+    "last_updated": "2025-03-12 16:45:37 IST"
 }
