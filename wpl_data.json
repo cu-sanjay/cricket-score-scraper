@@ -1,15 +1,17 @@
 {
-    "upcoming_match": {
-        "match_title": "Eliminator, Mumbai Indians vs Gujarat Giants",
-        "match_subtitle": "Women's Premier League, 2025",
-        "match_date": "Mar 13, 2025",
-        "match_time": "14:00",
-        "match_status": "Live",
-        "team_a": "Mumbai Indians",
-        "team_b": "Gujarat Giants",
-        "venue": "Brabourne Stadium, Mumbai"
-    },
+    "upcoming_match": {},
     "previous_matches": [
+        {
+            "match_number": "19",
+            "status": "Match Ended",
+            "date": "Mar 10, 2025",
+            "venue": "Brabourne Stadium, Mumbai",
+            "team_a": "MI",
+            "team_a_score": "179/6",
+            "team_b": "GG",
+            "team_b_score": "170",
+            "result": "Mumbai Indians beat Gujarat Giants by 9 runs"
+        },
         {
             "match_number": "18",
             "status": "Match Ended",
@@ -55,5 +57,5 @@
             "result": "Gujarat Giants beat UP Warriorz by 81 runs"
         }
     ],
-    "last_updated": "2025-03-13 22:45:33 IST"
+    "last_updated": "2025-03-13 23:56:38 IST"
 }
