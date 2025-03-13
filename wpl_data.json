@@ -4,7 +4,7 @@
         "match_subtitle": "Women's Premier League, 2025",
         "match_date": "Mar 13, 2025",
         "match_time": "14:00",
-        "match_status": "Live",
+        "match_status": "Strategic Time-Out",
         "team_a": "Mumbai Indians",
         "team_b": "Gujarat Giants",
         "venue": "Brabourne Stadium, Mumbai"
@@ -55,5 +55,5 @@
             "result": "Gujarat Giants beat UP Warriorz by 81 runs"
         }
     ],
-    "last_updated": "2025-03-13 20:51:44 IST"
+    "last_updated": "2025-03-13 21:54:44 IST"
 }
