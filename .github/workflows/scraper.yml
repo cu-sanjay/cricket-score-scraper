@@ -19,7 +19,7 @@ jobs:
           python-version: "3.9"
 
       - name: Install Dependencies
-        run: pip install selenium webdriver-manager beautifulsoup4 pytz
+        run: pip install selenium webdriver-manager beautifulsoup4 pytz guara
 
       - name: Run Scraper
         run: python test.py
