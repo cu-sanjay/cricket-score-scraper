@@ -2,6 +2,39 @@
     "upcoming_match": {},
     "previous_matches": [
         {
+            "match_number": "",
+            "status": "Match Ended",
+            "date": "Mar 15, 2025",
+            "venue": "Brabourne Stadium, Mumbai",
+            "team_a": "DC",
+            "team_a_score": "141/9",
+            "team_b": "MI",
+            "team_b_score": "149/7",
+            "result": "Mumbai Indians beat Delhi Capitals by 8 runs"
+        },
+        {
+            "match_number": "",
+            "status": "Match Ended",
+            "date": "Mar 13, 2025",
+            "venue": "Brabourne Stadium, Mumbai",
+            "team_a": "MI",
+            "team_a_score": "213/4",
+            "team_b": "GG",
+            "team_b_score": "166",
+            "result": "Mumbai Indians beat Gujarat Giants by 47 runs"
+        },
+        {
+            "match_number": "20",
+            "status": "Match Ended",
+            "date": "Mar 11, 2025",
+            "venue": "Brabourne Stadium, Mumbai",
+            "team_a": "MI",
+            "team_a_score": "188/9",
+            "team_b": "RCB",
+            "team_b_score": "199/3",
+            "result": "Royal Challengers Bengaluru beat Mumbai Indians by 11 runs"
+        },
+        {
             "match_number": "19",
             "status": "Match Ended",
             "date": "Mar 10, 2025",
@@ -57,5 +90,5 @@
             "result": "Gujarat Giants beat UP Warriorz by 81 runs"
         }
     ],
-    "last_updated": "2025-03-16 18:27:14 IST"
+    "last_updated": "2025-03-16 18:39:31 IST"
 }
