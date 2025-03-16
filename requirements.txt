@@ -2,3 +2,4 @@ selenium
 webdriver-manager
 beautifulsoup4
 pytz
+guara
