@@ -31,16 +31,24 @@ options.add_argument("--window-size=1920,1200")
 options.add_argument(
     "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
+options.add_argument("--log-level=0")  
+options.add_experimental_option('excludeSwitches', ['enable-logging']) 
 
 # Transaction Classes
 class NavigateToWPL(AbstractTransaction):
     def do(self, url, **kwargs):
         logger.info(f"Navigating to {url}")
         self._driver.get(url)
-        WebDriverWait(self._driver, 10).until(
-            EC.presence_of_element_located((By.CLASS_NAME, "card-wrap"))
-        )
-        time.sleep(2)
+        try:
+            WebDriverWait(self._driver, 15).until(
+                EC.presence_of_element_located((By.TAG_NAME, "body"))
+            )
+            logger.info("Page loaded successfully")
+            time.sleep(2)
+        except Exception as e:
+            logger.error(f"Navigation failed: {e}")
+            logger.debug(f"Page source: {self._driver.page_source[:1000]}") 
+            raise
 
 class FetchUpcomingMatch(AbstractTransaction):
     def do(self, **kwargs):
@@ -128,4 +136,5 @@ if __name__ == "__main__":
             app.at(SaveData, upcoming_match=upcoming_match, previous_matches=previous_matches)
         except Exception as e:
             logger.error(f"Scraping failed: {e}")
+            logger.debug(f"Final page source: {driver.page_source[:1000]}")
     logger.info("Scraping process completed")
