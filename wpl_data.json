@@ -2,17 +2,6 @@
     "upcoming_match": {},
     "previous_matches": [
         {
-            "match_number": "20",
-            "status": "Match Ended",
-            "date": "Mar 11, 2025",
-            "venue": "Brabourne Stadium, Mumbai",
-            "team_a": "MI",
-            "team_a_score": "188/9",
-            "team_b": "RCB",
-            "team_b_score": "199/3",
-            "result": "Royal Challengers Bengaluru beat Mumbai Indians by 11 runs"
-        },
-        {
             "match_number": "19",
             "status": "Match Ended",
             "date": "Mar 10, 2025",
@@ -68,5 +57,5 @@
             "result": "Gujarat Giants beat UP Warriorz by 81 runs"
         }
     ],
-    "last_updated": "2025-03-16 10:03:50 IST"
+    "last_updated": "2025-03-16 18:27:14 IST"
 }
