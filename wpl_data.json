@@ -4,7 +4,7 @@
         {
             "match_number": "",
             "status": "Match Ended",
-            "date": "N/A",
+            "date": "Mar 15, 2025",
             "venue": "Brabourne Stadium, Mumbai",
             "team_a": "DC",
             "team_a_score": "141/9",
@@ -15,7 +15,7 @@
         {
             "match_number": "",
             "status": "Match Ended",
-            "date": "N/A",
+            "date": "Mar 13, 2025",
             "venue": "Brabourne Stadium, Mumbai",
             "team_a": "MI",
             "team_a_score": "213/4",
@@ -26,7 +26,7 @@
         {
             "match_number": "20",
             "status": "Match Ended",
-            "date": "N/A",
+            "date": "Mar 11, 2025",
             "venue": "Brabourne Stadium, Mumbai",
             "team_a": "MI",
             "team_a_score": "188/9",
@@ -37,7 +37,7 @@
         {
             "match_number": "19",
             "status": "Match Ended",
-            "date": "N/A",
+            "date": "Mar 10, 2025",
             "venue": "Brabourne Stadium, Mumbai",
             "team_a": "MI",
             "team_a_score": "179/6",
@@ -48,7 +48,7 @@
         {
             "match_number": "18",
             "status": "Match Ended",
-            "date": "N/A",
+            "date": "Mar 08, 2025",
             "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
             "team_a": "UPW",
             "team_a_score": "225/5",
@@ -59,7 +59,7 @@
         {
             "match_number": "17",
             "status": "Match Ended",
-            "date": "N/A",
+            "date": "Mar 07, 2025",
             "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
             "team_a": "GG",
             "team_a_score": "178/5",
@@ -70,7 +70,7 @@
         {
             "match_number": "16",
             "status": "Match Ended",
-            "date": "N/A",
+            "date": "Mar 06, 2025",
             "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
             "team_a": "UPW",
             "team_a_score": "150/9",
@@ -81,7 +81,7 @@
         {
             "match_number": "15",
             "status": "Match Ended",
-            "date": "N/A",
+            "date": "Mar 03, 2025",
             "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
             "team_a": "UPW",
             "team_a_score": "105",
@@ -90,5 +90,5 @@
             "result": "Gujarat Giants beat UP Warriorz by 81 runs"
         }
     ],
-    "last_updated": "2025-03-29 13:53:13 IST"
+    "last_updated": "2025-03-29 14:48:45 IST"
 }
